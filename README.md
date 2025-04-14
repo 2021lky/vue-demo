@@ -8,10 +8,10 @@
 <table>
     <tr>
         <td >
-          <img src="https://github.com/2021lky/vue-demo/public/image2.png" width="100%">
+          <img src="https://github.com/2021lky/vue-demo/raw/main/public/image2.png" width="100%">
         </td>
         <td >
-          <img src="https://github.com/2021lky/vue-demo/public/image1.png" width="100%">
+          <img src="https://github.com/2021lky/vue-demo/raw/main/public/image1.png" width="100%">
         </td>
     </tr>
 </table>
