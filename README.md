@@ -5,6 +5,6 @@
 2. 首页的推荐导航部分，实现上拉列表加载，下拉列表刷新的功能<br/>
 
 #### APP截图：
-｜ ![启动页](https://github.com/2021lky/vue-demo/main/public/image2.png) | ![首页](https://github.com/2021lky/vue-demo/main/public/image1.png) |
+｜ ![启动页](./public/image2.png) | ![首页](./public/image1.png) |
 
 项目持续进展中。。。。。
