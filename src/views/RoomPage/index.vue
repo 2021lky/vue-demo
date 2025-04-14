@@ -1,10 +1,14 @@
 <script setup>
 import { ref } from 'vue'
 import { useRoute } from 'vue-router'
+import { requestChat, requestGift } from '@/api/room.js'
 const active = ref(0);
 const route = useRoute()
 console.log(route.query)
 
+const getChatList = () => {
+    
+}
 </script>
 
 <template>
