@@ -1,0 +1,30 @@
+{
+  "id": "3005320",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23119808",
+      "name": "火苗",
+      "font_class": "huomiao",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "38640796",
+      "name": "鲨鱼鳍",
+      "font_class": "shayuqi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3652974",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    }
+  ]
+}
